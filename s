@@ -20,14 +20,14 @@
    */
   --background-image: url("https://i.imgur.com/Nglfni6.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
-  --accent: 0, 231, 169; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
+  --accent: 0,255,255; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
   --members-width: 280px; /* Width of the members list. | Default: 280px */
   --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
   --chat-avatar-size: 32px; /* Size of the chat avatars. | Default: 32px */
   --glow-intensity: 1; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
-  --opacity: 0; /* Opacity of overall app. | Default: .85 */
+  --opacity: .85; /* Opacity of overall app. | Default: .85 */
   --font: "Inter"; /* Custom font | Default: 'Inter' */
   --avatar-roundness: 50%; /* Roundness for avatars. | 0% = Square, 50% = Circle | Default: 50% */
   --server-roundness: 50%; /* Roundness for servers. | 0% = Square, 50% = Circle | Default: 50% */
