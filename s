@@ -25,7 +25,7 @@
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
   --members-width: 280px; /* Width of the members list. | Default: 280px */
   --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
-  --chat-avatar-size: 30px; /* Size of the chat avatars. | Default: 32px */
+  --chat-avatar-size: 34px; /* Size of the chat avatars. | Default: 32px */
   --glow-intensity: 1; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --opacity: .85; /* Opacity of overall app. | Default: .85 */
   --font: "Inter"; /* Custom font | Default: 'Inter' */
